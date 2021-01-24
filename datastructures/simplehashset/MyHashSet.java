@@ -1,5 +1,6 @@
-// Sijmple HashSet implementation
+// Simple HashSet implementation
 // Need todo implement rehashing
+package datastructure.simplehashset;
 
 import java.util.LinkedList;
 import java.util.List;
